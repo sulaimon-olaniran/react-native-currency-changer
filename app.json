@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple app that enables you get latest exchange rate of several currencies around the world"
   }
 }
